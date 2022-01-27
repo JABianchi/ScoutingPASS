@@ -14,7 +14,7 @@ var config_data = `
       "Event":{
         "code":"e",
         "type":"event",
-        "defaultValue":"SBPLI#2",
+        "defaultValue":"NYLI2",
         "required":"true",
         "disabled":"true"
       },
