@@ -14,7 +14,7 @@ var config_data = `
       "Event":{
         "code":"e",
         "type":"event",
-        "defaultValue":"NYLI2",
+        "defaultValue":"NYNY",
         "required":"true",
         "disabled":"true"
       },
