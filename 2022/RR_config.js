@@ -61,7 +61,7 @@ var config_data = `
         "code":"as",
         "title": "Auto Start Position",
         "type":"field_image",
-        "filename":"2022/updated_field.png"
+        "filename":"2022/New_field.png"
       }
     },
     "auton": {
@@ -128,7 +128,7 @@ var config_data = `
         "code":"ss",
         "title": "Shooting Spot",
         "type":"field_image",
-        "filename":"2022/field_image.png"
+        "filename":"2022/New_field.png"
       }
     },
     "endgame": {
